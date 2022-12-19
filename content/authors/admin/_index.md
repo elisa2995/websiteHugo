@@ -1,34 +1,44 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Elisa Chiapponi
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Elisa
+last_name: Chiapponi
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: PhD student in Web and Network Security
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: EURECOM
+    url: https://www.eurecom.fr/en
+  - name: Amadeus
+    url: https://amadeus.com/en
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I am a PhD student in Web, Network and Application Security enrolled at the Sorbonne Université.
+I work on my research project at EURECOM and Amadeus IT Group, under the supervision of prof.Marc Dacier.
+
+My research focuses on the analysis and mitigation of the new generation of botnets, in particular the ones performing web scraping.
+My goal is to find practical means to defeat them. The starting point of my project is understanding the ecosystem of scraping bots. This consists of identifying the actors behind this business and their motivations, understanding the various techniques they exploit and the infrastructures they take advantage of.
+
+I am currently studying Residential IP Proxies. Scrapers exploit these services to have a vast network of residential IP addresses which help bypass current countermeasure tecniques.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Web Security
+  - Network Security
+  - Web Scraping
+  - Anti-bot solutions
+  - Proxy detection
 
 # Education to show in About widget
 education:
