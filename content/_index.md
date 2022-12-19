@@ -24,12 +24,12 @@ sections:
       #   Required fields are `title`, `company`, and `date_start`.
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-     items:
+      items:
         - title: Visiting PhD student
           company: KAUST - Resilient Computing and Cybersecurity Center (RC3)
           company_url: 'https://cemse.kaust.edu.sa/rc3'
           company_logo: 
-          location: Thuwal, Saudi Arabia
+          location: Saudi Arabia
           date_start: '2022-02-01'
           date_end: '2022-03-01'
           description: |2-
@@ -43,33 +43,6 @@ sections:
           date_start: '2020-04-01'
           date_end: '2020-05-31'
           description: OMAC (One Million Arab Coders) Covid-19 Hackaton was launched to find solutions to problems that emerged in the first stages of the pandemic. Our team, composed of 6 people from different domains decided to submit the project of an application that would help people wanting to do volunteering to find the volunteering association that best suits them. Our idea was selected with other 29 among the 1200 proposed ones. We had 5 days to build a prototype of the application and business plan for it. We were helped and guided by mentors of the hackaton.
-          
-         - title: Application SOC research intern
-          company: Amadeus
-          company_url: 'https://amadeus.com/en'
-          company_logo: 
-          location: Biot, France
-          date_start: '2019-07-01'
-          date_end: '2020-01-31'
-          description: My interniship was about the creation and development of a honeypot able to mitigate attacks of scraping bots towards the company booking domains. This work was the topic of my Master of Science thesis.
-          
-         - title: Bachelor thesist
-          company: BMI Mario Stefanelli - Universitá degli studi di Pavia
-          company_url: 'http://www.labmedinfo.org/en/10-2/'
-          company_logo: 
-          location: Pavia, Italy
-          date_start: '2017-02-01'
-          date_end: '2017-07-31'
-          description: I participated in the project and development of the first version of a web app to monitor the ketogenic diet. The application is currently used by the Health and Nutrition center of the university.
-          
-         - title: Front-desk librarian
-          company: Universitá degli studi di Pavia
-          company_url: 'https://web-en.unipv.it/'
-          company_logo: 
-          location: Pavia, Italy
-          date_start: '2017-01-01'
-          date_end: '2017-06-31'
-          description: I took part in a part-time collaboration with the university to work in the library.
     design:
       columns: '2'
   - block: collection
