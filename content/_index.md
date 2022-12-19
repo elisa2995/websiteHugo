@@ -26,10 +26,11 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: PhD researcher
-          company: Amadeus
+          company: EURECOM - Amadeus
           company_url: 'https://amadeus.com/en'
+          company_url: 'https://www.eurecom.fr/en'
           company_logo: 
-          location: Villenueve Loubet, France
+          location: Biot, France
           date_start: '2020-04-01'
           date_end: ''
           description: |2-
