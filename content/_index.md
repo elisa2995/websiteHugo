@@ -61,6 +61,15 @@ sections:
           date_start: '2017-02-01'
           date_end: '2017-07-31'
           description: I participated in the project and development of the first version of a web app to monitor the ketogenic diet. The application is currently used by the Health and Nutrition center of the university.
+          
+        - title: Front-desk librarian
+          company: Universitá degli studi di Pavia
+          company_url: 'https://web-en.unipv.it/'
+          company_logo: 
+          location: Pavia, Italy
+          date_start: '2017-01-01'
+          date_end: '2017-06-30'
+          description: I took part in a part-time collaboration with the university to work in the library.
          
          
 
