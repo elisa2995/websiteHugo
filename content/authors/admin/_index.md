@@ -38,6 +38,9 @@ education:
     - course: PhD in Digital Security
       institution: Sorbonne Université, France
       year: Present
+    - course: Summer School on Security and Privacy in the (golden) Age of AI
+      institution: KU Leuven
+      year: 2022
     - course: Double degree between TÉLÉCOM PARIS and Politecnico di Torino
       institution: EURECOM
       year: 2018-2020
