@@ -33,8 +33,7 @@ sections:
           location: Biot, Francia
           date_start: '2020-04-01'
           date_end: ''
-          description: |2-
-              
+          description: |2-              
               
         - title: Visiting PhD student
           company: KAUST - Resilient Computing and Cybersecurity Center (RC3)
