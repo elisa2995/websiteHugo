@@ -25,15 +25,7 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: PhD researcher
-          company: Amadeus
-          company_url: 'https://amadeus.com/en'
-          company_logo: 
-          location: Villeneuve Loubet, France
-          date_start: '2020-04-01'
-          date_end: '2023-09-30'
-          description: TODO.
-              
+             
         - title: Visiting PhD student
           company: KAUST - Resilient Computing and Cybersecurity Center (RC3)
           company_url: 'https://cemse.kaust.edu.sa/rc3'
