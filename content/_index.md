@@ -31,8 +31,8 @@ sections:
           company_logo: 
           location: Villeneuve Loubet, France
           date_start: '2020-04-01'
-          date_end: ''
-          description:
+          date_end: '2023-09-30'
+          description: TODO.
               
         - title: Visiting PhD student
           company: KAUST - Resilient Computing and Cybersecurity Center (RC3)
