@@ -24,7 +24,13 @@ organizations:
     url: https://amadeus.com/en
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio: I am a PhD student in Web, Network and Application Security enrolled at the Sorbonne Université.
+I work at EURECOM and Amadeus IT Group, under the supervision of prof. Marc Dacier (KAUST).
+
+My research focuses on the analysis and mitigation of the new generation of botnets, in particular the ones performing web scraping.
+My goal is to find practical means to defeat them. The starting point of my project is understanding the ecosystem of scraping bots. This consists of identifying the actors behind this business and their motivations, understanding the various techniques they exploit and the infrastructures they take advantage of.
+
+I am currently studying Residential IP Proxies. Scrapers exploit these services to have access to a vast network of residential IP addresses which help bypass current countermeasure tecniques.
 
 # Interests to show in About widget
 interests:
@@ -57,19 +63,19 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/ChiapponiElisa
     label: Follow me on Twitter
     display:
       header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: [https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ](https://scholar.google.fr/citations?user=JcE2__YAAAAJ&hl=en)
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/elisa2995
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: [https://www.linkedin.com/](https://www.linkedin.com/in/elisa-chiapponi/)
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -78,7 +84,7 @@ social:
     link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: elisa.chiapponi@eurecom.fr
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
