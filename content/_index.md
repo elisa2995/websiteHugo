@@ -31,7 +31,7 @@ sections:
           company_logo: 
           location: Villeneuve Loubet, France
           date_start: '2020-04-01'
-          date_end: '
+          date_end: ''
           description: 
               
         - title: Visiting PhD student
