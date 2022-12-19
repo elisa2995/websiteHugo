@@ -88,7 +88,7 @@ sections:
           company_logo: 
           location: Pavia, Italy
           date_start: '2013-06-01'
-          date_end: '2016-06-30'
+          date_end: '2013-06-30'
           description: I took part in the summer internship program for high school students organized by the Chemistry and Physics division of the university. I was assigned at the Phisical Chemistry department and I studied isomorphic cristals.
          
 
