@@ -18,8 +18,8 @@ role: PhD student in Web and Network Security
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: EURECOM
-    url: https://www.eurecom.fr/en
+  - name: Stanford University
+    url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: I am a PhD student in Web, Network and Application Security enrolled at the Sorbonne Université.
