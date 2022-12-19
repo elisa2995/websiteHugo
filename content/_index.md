@@ -44,14 +44,14 @@ sections:
           date_end: '2020-05-31'
           description: OMAC (One Million Arab Coders) Covid-19 Hackaton was launched to find solutions to problems that emerged in the first stages of the pandemic. Our team, composed of 6 people from different domains decided to submit the project of an application that would help people wanting to do volunteering to find the volunteering association that best suits them. Our idea was selected with other 29 among the 1200 proposed ones. We had 5 days to build a prototype of the application and business plan for it. We were helped and guided by mentors of the hackaton.
 
-        - title: OMAC COVID-19 Hackaton Top 30 Team Member
-          company: Dubai Future Fundation
-          company_url: 'https://www.dubaifuture.ae/'
+        - title: Application SOC research intern
+          company: Aamdeus
+          company_url: 'https://amadeus.com/en'
           company_logo: 
-          location: Virtual
-          date_start: '2020-04-01'
-          date_end: '2020-05-31'
-          description: OMAC (One Million Arab Coders) Covid-19 Hackaton was launched to find solutions to problems that emerged in the first stages of the pandemic. Our team, composed of 6 people from different domains decided to submit the project of an application that would help people wanting to do volunteering to find the volunteering association that best suits them. Our idea was selected with other 29 among the 1200 proposed ones. We had 5 days to build a prototype of the application and business plan for it. We were helped and guided by mentors of the hackaton.
+          location: Biot, France
+          date_start: '2019-07-01'
+          date_end: '2020-01-31'
+          description: My interniship was about the creation and development of a honeypot able to mitigate attacks of scraping bots towards the company booking domains. This work was the topic of my Master of Science thesis.
          
          
 
