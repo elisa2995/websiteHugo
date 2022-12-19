@@ -29,7 +29,17 @@ sections:
           company: KAUST - Resilient Computing and Cybersecurity Center (RC3)
           company_url: 'https://cemse.kaust.edu.sa/rc3'
           company_logo: 
-          location: Saudi Arabia
+          location: Thuwal, Saudi Arabia
+          date_start: '2022-02-01'
+          date_end: '2022-03-01'
+          description: |2-
+              During this visiting experience, I had the opportunity to interact with the members of RC3 (Resilient Computing and Cybersecurity Center) and work in close collaboration with them about Residentail IP Proxy providers.
+              
+        - title: Visiting PhD student
+          company: KAUST - Resilient Computing and Cybersecurity Center (RC3)
+          company_url: 'https://cemse.kaust.edu.sa/rc3'
+          company_logo: 
+          location: Thuwal, Saudi Arabia
           date_start: '2022-02-01'
           date_end: '2022-03-01'
           description: |2-
