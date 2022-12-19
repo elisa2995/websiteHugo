@@ -25,27 +25,24 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
-          company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
-          date_end: ''
+        - title: Visiting PhD student
+          company: KAUST - Resilient Computing and Cybersecurity Center (RC3)
+          company_url: 'https://cemse.kaust.edu.sa/rc3'
+          company_logo: 
+          location: Saudi Arabia
+          date_start: '2022-02-01'
+          date_end: '2022-03-01'
           description: |2-
-              Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+              During this visiting experience, I had the opportunity to interact with the members of RC3 (Resilient Computing and Cybersecurity Center) and work in close collaboration with them about Residentail IP Proxy providers.
+              
+        - title: OMAC COVID-19 Hackaton Top 30 Team Member
+          company: Dubai Future Fundation
+          company_url: 'https://www.dubaifuture.ae/'
+          company_logo: 
+          location: Virtual
+          date_start: '2020-04-01'
+          date_end: '2020-05-31'
+          description: OMAC (One Million Arab Coders) Covid-19 Hackaton was launched to find solutions to problems that emerged in the first stages of the pandemic. Our team, composed of 6 people from different domains decided to submit the project of an application that would help people wanting to do volunteering to find the volunteering association that best suits them. Our idea was selected with other 29 among the 1200 proposed ones. We had 5 days to build a prototype of the application and business plan for it. We were helped and guided by mentors of the hackaton.
     design:
       columns: '2'
   - block: collection
