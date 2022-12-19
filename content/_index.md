@@ -25,15 +25,15 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Visiting PhD student
-          company: KAUST - Resilient Computing and Cybersecurity Center (RC3)
-          company_url: 'https://cemse.kaust.edu.sa/rc3'
+        - title: PhD researcher
+          company: Amadeus
+          company_url: 'https://amadeus.com/en'
           company_logo: 
-          location: Thuwal, Saudi Arabia
-          date_start: '2022-02-01'
-          date_end: '2022-03-01'
+          location: Villenueve Loubet, France
+          date_start: '2020-04-01'
+          date_end: ''
           description: |2-
-              During this visiting experience, I had the opportunity to interact with the members of RC3 (Resilient Computing and Cybersecurity Center) and work in close collaboration with them about Residentail IP Proxy providers.
+              .
               
         - title: Visiting PhD student
           company: KAUST - Resilient Computing and Cybersecurity Center (RC3)
