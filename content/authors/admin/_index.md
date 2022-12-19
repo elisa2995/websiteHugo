@@ -20,8 +20,6 @@ role: PhD student in Web and Network Security
 organizations:
   - name: EURECOM
     url: https://www.eurecom.fr/en
-  - name: Amadeus
-    url: https://amadeus.com/en
 
 # Short bio (displayed in user profile at end of posts)
 bio: I am a PhD student in Web, Network and Application Security enrolled at the Sorbonne Université.
@@ -90,5 +88,3 @@ email: elisa.chiapponi@eurecom.fr
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-{style="text-align: justify;"}
