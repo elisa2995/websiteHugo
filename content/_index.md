@@ -41,8 +41,7 @@ sections:
           location: Thuwal, Saudi Arabia
           date_start: '2022-02-01'
           date_end: '2022-03-01'
-          description: |2-
-              During this visiting experience, I had the opportunity to interact with the members of RC3 (Resilient Computing and Cybersecurity Center) and work in close collaboration with them about Residentail IP Proxy providers.
+          description: During this visiting experience, I had the opportunity to interact with the members of RC3 (Resilient Computing and Cybersecurity Center) and work in close collaboration with them about Residentail IP Proxy providers.
               
         - title: OMAC COVID-19 Hackaton Top 30 Team Member
           company: Dubai Future Fundation
