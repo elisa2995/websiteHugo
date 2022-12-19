@@ -22,13 +22,7 @@ organizations:
     url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a PhD student in Web, Network and Application Security enrolled at the Sorbonne Université.
-I work at EURECOM and Amadeus IT Group, under the supervision of prof. Marc Dacier (KAUST).
-
-My research focuses on the analysis and mitigation of the new generation of botnets, in particular the ones performing web scraping.
-My goal is to find practical means to defeat them. The starting point of my project is understanding the ecosystem of scraping bots. This consists of identifying the actors behind this business and their motivations, understanding the various techniques they exploit and the infrastructures they take advantage of.
-
-I am currently studying Residential IP Proxies. Scrapers exploit these services to have access to a vast network of residential IP addresses which help bypass current countermeasure tecniques.
+bio: Ciao.
 
 # Interests to show in About widget
 interests:
