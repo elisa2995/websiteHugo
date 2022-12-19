@@ -52,6 +52,15 @@ sections:
           date_start: '2019-07-01'
           date_end: '2020-01-31'
           description: My interniship was about the creation and development of a honeypot able to mitigate attacks of scraping bots towards the company booking domains. This work was the topic of my Master of Science thesis.
+          
+        - title: Bachelor thesist
+          company: BMI Mario Stefanelli - Universitá degli studi di Pavia
+          company_url: 'http://www.labmedinfo.org/en/10-2/'
+          company_logo: 
+          location: Pavia, Italy
+          date_start: '2017-02-01'
+          date_end: '2017-07-31'
+          description: I participated in the project and development of the first version of a web app to monitor the ketogenic diet. The application is currently used by the Health and Nutrition center of the university.
          
          
 
