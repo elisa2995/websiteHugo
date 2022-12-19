@@ -43,6 +43,7 @@ sections:
           date_start: '2020-04-01'
           date_end: '2020-05-31'
           description: OMAC (One Million Arab Coders) Covid-19 Hackaton was launched to find solutions to problems that emerged in the first stages of the pandemic. Our team, composed of 6 people from different domains decided to submit the project of an application that would help people wanting to do volunteering to find the volunteering association that best suits them. Our idea was selected with other 29 among the 1200 proposed ones. We had 5 days to build a prototype of the application and business plan for it. We were helped and guided by mentors of the hackaton.
+          
           - title: Application SOC research intern
           company: Amadeus
           company_url: 'https://amadeus.com/en'
