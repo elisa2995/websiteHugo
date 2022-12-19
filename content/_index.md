@@ -24,8 +24,8 @@ sections:
       #   Required fields are `title`, `company`, and `date_start`.
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-      items:
-         - title: Visiting PhD student
+     items:
+        - title: Visiting PhD student
           company: KAUST - Resilient Computing and Cybersecurity Center (RC3)
           company_url: 'https://cemse.kaust.edu.sa/rc3'
           company_logo: 
