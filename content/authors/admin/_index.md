@@ -18,8 +18,8 @@ role: PhD student in Web and Network Security
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: EURECOM
+    url: https://www.eurecom.fr/en
 
 # Short bio (displayed in user profile at end of posts)
 bio: Ciao.
