@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title: Elisa Chiapponi
+title: Elisa Chiapponi // WEBSITE UNDER CONSTRUCTION, for the time being please refer to https://elisa2995.github.io/
 date: 2022-10-24
 type: landing
 
