@@ -46,11 +46,6 @@ featured: true
 #   url: http://example.org
 
 url_pdf: 'https://github.com/elisa2995/elisa2995.github.io/raw/main/papers/Chiapponi_BADPASS_2022.pdf'
-url_code: ''
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
 url_source: 'https://doi.org/10.1007/978-3-031-21280-2_18'
 url_video: 'https://www.youtube.com/watch?v=Q0RIxhSCjkA'
 
