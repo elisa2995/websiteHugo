@@ -11,7 +11,7 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
       # Override your bio text from `authors/admin/_index.md`?
-      text: I am a PhD student in Web, Network and Application Security enrolled at the Sorbonne Université. I work on my research project at EURECOM and Amadeus IT Group, under the supervision of prof.Marc Dacier. My research focuses on the analysis and mitigation of the new generation of botnets, in particular the ones performing web scraping. My goal is to find practical means to defeat them. The starting point of my project is understanding the ecosystem of scraping bots. This consists of identifying the actors behind this business and their motivations, understanding the various techniques they exploit and the infrastructures they take advantage of. I am currently studying Residential IP Proxies. Scrapers exploit these services to have a vast network of residential IP addresses which help bypass current countermeasure tecniques.
+      # text: 
   
   - block: collection
     id: pubblications
