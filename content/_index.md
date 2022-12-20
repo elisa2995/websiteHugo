@@ -60,7 +60,7 @@ sections:
           date_start: '2020-04-01'
           date_end: ''
           description: |2-
-              .
+              In-depth study of scraping bots detection and mitigation technques, as well as the underground ecosystems of these parties.
               
         - title: Visiting PhD student
           company: KAUST - Resilient Computing and Cybersecurity Center (RC3)
