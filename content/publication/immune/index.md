@@ -1,8 +1,6 @@
 ---
 title: 'ImMuNE : Improved Multilateration in Noisy Environments'
 
-Champion Mathieu, Dacier Marc, Chiapponi Elisa (2022). "" in IEEE Global Internet (GI) Symposium 2022.
-
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
