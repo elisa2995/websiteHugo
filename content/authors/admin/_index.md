@@ -22,7 +22,15 @@ organizations:
     url: https://www.eurecom.fr/en
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a PhD student in Web, Network and Application Security enrolled at the Sorbonne Université. I work on my research project at EURECOM and Amadeus IT Group, under the supervision of prof.Marc Dacier. My research focuses on the analysis and mitigation of the new generation of botnets, in particular the ones performing web scraping. My goal is to find practical means to defeat them. The starting point of my project is understanding the ecosystem of scraping bots. This consists of identifying the actors behind this business and their motivations, understanding the various techniques they exploit and the infrastructures they take advantage of. I am currently studying Residential IP Proxies. Scrapers exploit these services to have a vast network of residential IP addresses which help bypass current countermeasure tecniques.
+bio: I am a PhD student in Web and Network Security enrolled at the Sorbonne Université. I work on my research project at EURECOM and Amadeus, under the supervision of Prof. Marc Dacier and Dr. Olivier Thonnard. My current research interests centers around bot detection and mitigation, proxy detection and Residential IP proxies.
+
+In 2017, I received my Bachelor’s Degree in Bioengineering from the Universitá degli Studi di Pavia. In 2020, thanks to a double degree program taking place at EURECOM, I received both the Master’s Degree in Computer Engineering from the Politecnico di Torino and the Diplôme d'ingeniur (French Master Degree) from the Télécom Paris. I completed my master’s thesis at Amadeus focused on bot detection and mitigation under the supervision of Dr. Olivier Thonnard, Dr. Onur Catakoglu, Prof. Marc Dacier and Prof. Antonio Lioy.
+
+During the PhD I decided to deepen the work produced in my master's thesis about bot detection and mitigation in collaboration with Amadeus. Our goal is finding practical means to defeat scraping bots. After an in-depth study of the ecosystem of these bots, I am focusing in the detection and mitigation of scrapers taking advantage of Residential IP proxies. Scrapers exploit these services to have a vast network of residential IP addresses which help bypass current countermeasure tecniques. Thanks to IP addresses and network measurements, we have reached a better understanding of the architecture and usage of these parties. Moreover, we have developped a Residential IP proxy detection technique, topic of our latest work.
+
+When I am not actively working on my research project, I am passionate about cooking, voluntering (Global Shapers Nice, Helping Hands), hiking, indoor and ourdoor climbing. I also love travelling, listening to true-crime podcasts and dancing Balfolk.
+
+I am always down for a chat, so if you have any feedback about our work don't hesitate to ping me :)
 
 # Interests to show in About widget
 interests:
