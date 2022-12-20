@@ -38,7 +38,7 @@ summary: ''
 tags: [Web Scraping, Residential IP Proxy, RESIP, Round Trip Time measurement, TLS, Security, Bots]
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
