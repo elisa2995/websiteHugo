@@ -1,20 +1,21 @@
 ---
-title: 'An example conference paper'
+title: 'BADPASS: Bots taking ADvantage of Proxy AS a Service"'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Robert Ford
+  - Dacier Marc
+  - Thonnard Olivier
+  - Fangar Mohamed
+  - Rigal Vincent
 
 # Author notes (optional)
 author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
 
-date: '2013-07-01T00:00:00Z'
-doi: ''
+date: '2022-11-23T00:00:00Z'
+doi: '10.1007/978-3-031-21280-2_18'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2017-01-01T00:00:00Z'
@@ -26,15 +27,15 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
+publication: In The 17th International Conference on Information Security Practice and Experience 
+publication_short: In ISPEC 2022
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Web scraping bots are now using so-called Residential IP Proxy (RESIP) services to defeat state-of-the-art commercial bot countermeasures. RESIP providers promise their customers to give them access to tens of millions of residential IP addresses, which belong to legitimate users. They dramatically complicate the task of the existing anti-bot solutions and give the upper hand to the malicious actors. New specific detection methods are needed to identify and stop scrapers from taking advantage of these parties. This work, thanks to a 4 months-long experiment, validates the feasibility, soundness, and practicality of a detection method based on network measurements. This technique enables contacted servers to identify whether an incoming request comes directly from a client device or if it has been proxied through another device.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: : 
 
-tags: []
+tags: [Web Scraping, Residential IP Proxy, RESIP, Round Trip Time measurement, TLS, Security, Bots]
 
 # Display this page in the Featured widget?
 featured: true
@@ -44,19 +45,19 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
-url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_dataset: 'https://github.com/wowchemy/wowchemy-hugo-themes'
+url_pdf: 'https://github.com/elisa2995/elisa2995.github.io/raw/main/papers/Chiapponi_BADPASS_2022.pdf'
+url_code: ''
+url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_video: 'https://youtube.com'
+url_source: 'https://doi.org/10.1007/978-3-031-21280-2_18'
+url_video: 'https://www.youtube.com/watch?v=Q0RIxhSCjkA'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: ''
   focal_point: ''
   preview_only: false
 
@@ -65,8 +66,8 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-  - example
+projects: []
+  
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
