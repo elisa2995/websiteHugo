@@ -1,5 +1,5 @@
 ---
-title: 'BADPASS: Bots taking ADvantage of Proxy AS a Service"'
+title: 'BADPASS: Bots taking ADvantage of Proxy AS a Service'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -12,13 +12,13 @@ authors:
   - Rigal Vincent
 
 # Author notes (optional)
-author_notes:
+author_notes: ''
 
 date: '2022-11-23T00:00:00Z'
 doi: '10.1007/978-3-031-21280-2_18'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: ''
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -33,7 +33,7 @@ publication_short: In ISPEC 2022
 abstract: Web scraping bots are now using so-called Residential IP Proxy (RESIP) services to defeat state-of-the-art commercial bot countermeasures. RESIP providers promise their customers to give them access to tens of millions of residential IP addresses, which belong to legitimate users. They dramatically complicate the task of the existing anti-bot solutions and give the upper hand to the malicious actors. New specific detection methods are needed to identify and stop scrapers from taking advantage of these parties. This work, thanks to a 4 months-long experiment, validates the feasibility, soundness, and practicality of a detection method based on network measurements. This technique enables contacted servers to identify whether an incoming request comes directly from a client device or if it has been proxied through another device.
 
 # Summary. An optional shortened abstract.
-summary: 
+summary: ''
 
 tags: [Web Scraping, Residential IP Proxy, RESIP, Round Trip Time measurement, TLS, Security, Bots]
 
