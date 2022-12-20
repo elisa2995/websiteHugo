@@ -8,7 +8,7 @@ last_name: Chiapponi
 
 # Status emoji
 status:
-  icon: 
+  icon: 'https://github.com/elisa2995/elisa2995.github.io/blob/main/img/KN9A1730.JPG'
 
 # Is this the primary user of the site?
 superuser: true
